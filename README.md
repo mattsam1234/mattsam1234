@@ -22,4 +22,4 @@ I am currently still expanding my skills to keep up with the ever changing techn
 ![Static Badge](https://img.shields.io/badge/Mattie-red?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmattie-malling)
 
 ### CV
-📎 [My CV](https://github.com/mattsam1234/mattsam1234/CV.pdf)
+📎 [My CV](https://github.com/mattsam1234/mattsam1234/blob/main/CV.pdf)
